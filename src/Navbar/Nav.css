@@ -1,0 +1,11 @@
+.nav {
+  color: #000;
+  background-color: #f1611a;
+  padding: 10px 0px 10px 20px;
+  display: flex;
+  flex-direction: row;
+}
+
+.nav h3 {
+  margin: 0px;
+}
